@@ -1,0 +1,156 @@
+.topbar{
+  background: #373c42;
+}
+
+.icon{
+  height: 30px;
+}
+
+.active a{
+  size: 12pt;
+  font-family: Georgia;
+  font-weight: 300;
+  color: #999999;
+  text-transform: capitalize; /*viet hoa dau dong*/
+  text-align: center;
+
+}
+.header{
+  background: #4c555e;
+}
+
+.search-input{
+  background: #65717c;
+  color:#ffffff;
+  text-align: center; 
+  text-transform: capitalize;
+}
+
+.search-btn{
+  background: #31363c;
+  color:#ffffff;
+  text-align: center;
+  text-transform: uppercase;
+}
+.main-menu{
+  background: #31363c;
+}
+.service-contain{
+  text-transform: capitalize;
+  size: 18pt;
+}
+.service-text{
+  text-transform: capitalize;
+  size: 13pt;
+}
+.active-main a{
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.sologan{
+  color: #31363c;
+  text-transform: capitalize;
+  size: 22pt;
+  border-width: 1px;
+  border-top-style: solid ;
+  border-bottom-style: solid ;
+  border-color: #e2e2e2;
+}
+
+.prj-list h3{
+  text-transform: capitalize;
+  size: 18pt;
+  color: #31363c;
+}
+
+.prj-list p{
+  text-transform: capitalize;
+  size: 13pt;
+  color: #31363c;
+}
+.prj-detail{
+  text-transform: capitalize;
+  size: 13pt;
+  color: #31363c;
+}
+.footer{
+  background: #ededed;
+}
+.footer a{
+  text-transform: capitalize;
+  size: 13pt;
+}
+
+.footer-aboutourschool{
+  text-transform: uppercase;
+  size: 12pt;
+  color: #31363c;
+}
+
+.aboutourschool p{
+  text-transform: capitalize;
+  size: 13pt;
+}
+.footer-frommtheblock{
+  text-transform: uppercase;
+  size: 12pt;
+  color: #31363c;
+}
+.fromtheblock h4{
+  text-transform: capitalize;
+  size: 14pt;
+}
+
+.fromtheblock p{
+  text-transform: capitalize;
+  size: 13pt;
+}
+
+.link-block{
+  text-transform: uppercase;
+  size: 12pt;
+  color: #31363c;
+}
+.posttitle{
+  text-transform: capitalize;
+  size: 14pt;
+  color: #31363c;
+}
+.new-letter{
+  text-transform: uppercase;
+  size: 12pt;
+  color: #31363c;
+}
+.footer-newletter p{
+  text-transform: capitalize;
+  size: 13pt;
+}
+.input{
+  text-transform: capitalize;
+  text-align: left;
+  size: 13pt;
+  color: #31363c;
+}
+.button{
+  text-transform: uppercase;
+  text-align: center;
+  size: 13pt;
+  color: #31363c;
+}
+.contact{
+  text-transform: uppercase;
+  size: 12pt;
+}
+.footer-readmore{
+  text-transform: capitalize;
+  size: 13pt;
+}
+.link{
+  text-transform: capitalize;
+  size: 12pt;
+}
+.coppyright{
+  text-transform: capitalize;
+  size: 13pt;
+}
